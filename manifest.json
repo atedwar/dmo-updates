@@ -1,5 +1,5 @@
 {
-  "knowledge_version": "1.4.0",
+  "knowledge_version": "1.4.1",
   "files": [
     {"name": "vehicles.json"},
     {"name": "components.json"},
