@@ -1,1 +1,45 @@
+{
+  "voltage": {
+    "name": "Voltage",
+    "aliases": [
+      "voltage",
+      "potential difference"
+    ],
+    "description": "Voltage is the electric potential difference between two points and is measured in volts."
+  },
 
+  "current": {
+    "name": "Current",
+    "aliases": [
+      "current",
+      "electric current"
+    ],
+    "description": "Current is the rate of flow of electric charge and is measured in amperes."
+  },
+
+  "resistance": {
+    "name": "Resistance",
+    "aliases": [
+      "resistance"
+    ],
+    "description": "Resistance is the opposition to electric current and is measured in ohms."
+  },
+
+  "series_circuit": {
+    "name": "Series Circuit",
+    "aliases": [
+      "series circuit",
+      "series connection"
+    ],
+    "description": "In a series circuit, components share the same current and their voltage drops add to the source voltage."
+  },
+
+  "parallel_circuit": {
+    "name": "Parallel Circuit",
+    "aliases": [
+      "parallel circuit",
+      "parallel connection"
+    ],
+    "description": "In a parallel circuit, branches share the same voltage while the branch currents add to the total current."
+  }
+}
