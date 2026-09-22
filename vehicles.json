@@ -1,0 +1,8 @@
+{
+  "internet_test": {
+    "name": "D-MO Internet Update Test",
+    "facts": {
+      "status": "Downloaded successfully from GitHub"
+    }
+  }
+}
