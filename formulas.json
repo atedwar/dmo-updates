@@ -1,1 +1,46 @@
+{
+  "ohms_law_voltage": {
+    "name": "Ohm's Law - Voltage",
+    "aliases": [
+      "ohms law",
+      "solve for voltage",
+      "voltage from current and resistance"
+    ],
+    "equation": "V = I * R",
+    "variables": {
+      "V": "Voltage in volts",
+      "I": "Current in amperes",
+      "R": "Resistance in ohms"
+    }
+  },
 
+  "rc_time_constant": {
+    "name": "RC Time Constant",
+    "aliases": [
+      "rc time constant",
+      "time constant",
+      "tau",
+      "capacitor charging time"
+    ],
+    "equation": "tau = R * C",
+    "variables": {
+      "tau": "Time constant in seconds",
+      "R": "Resistance in ohms",
+      "C": "Capacitance in farads"
+    }
+  },
+
+  "electrical_power": {
+    "name": "Electrical Power",
+    "aliases": [
+      "power equation",
+      "electrical power",
+      "watts"
+    ],
+    "equations": [
+      "P = V * I",
+      "P = I^2 * R",
+      "P = V^2 / R"
+    ]
+  }
+}
