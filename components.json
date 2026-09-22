@@ -1,1 +1,40 @@
+{
+  "resistor": {
+    "name": "Resistor",
+    "aliases": [
+      "resistor",
+      "resistance"
+    ],
+    "category": "passive component",
+    "description": "A resistor opposes current flow and produces a voltage drop according to Ohm's law.",
+    "common_uses": [
+      "current limiting",
+      "voltage dividers",
+      "biasing",
+      "pull-up and pull-down networks"
+    ],
+    "key_equations": [
+      "V = I * R",
+      "P = V * I",
+      "P = I^2 * R",
+      "P = V^2 / R"
+    ]
+  },
 
+  "capacitor": {
+    "name": "Capacitor",
+    "aliases": [
+      "capacitor",
+      "cap"
+    ],
+    "category": "passive component",
+    "description": "A capacitor stores energy in an electric field.",
+    "common_uses": [
+      "filtering",
+      "decoupling",
+      "timing",
+      "AC coupling",
+      "energy storage"
+    ]
+  }
+}
