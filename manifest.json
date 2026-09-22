@@ -1,8 +1,9 @@
 {
-  "knowledge_version": "1.3.0",
+  "knowledge_version": "1.4.0",
   "files": [
-    {
-      "name": "vehicles.json"
-    }
+    {"name": "vehicles.json"},
+    {"name": "components.json"},
+    {"name": "formulas.json"},
+    {"name": "electronics.json"}
   ]
 }
